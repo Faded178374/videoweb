@@ -1,0 +1,8 @@
+./scheduler: ./scheduler: cannot execute binary file
+./web: ./web: cannot execute binary file
+./api: ./api: cannot execute binary file
+./streamserver: ./streamserver: cannot execute binary file
+./api: ./api: cannot execute binary file
+./scheduler: ./scheduler: cannot execute binary file
+./streamserver: ./streamserver: cannot execute binary file
+./web: ./web: cannot execute binary file
